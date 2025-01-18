@@ -47,12 +47,6 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    media:
-      type: ImageBlock
-      url: /images/PETIRIS EYE PHOTO PET IRIS PHOTOGRAPHY.jpg
-      altText: Contact form image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-a
     backgroundSize: full
     elementId: ''
