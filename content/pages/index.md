@@ -49,7 +49,7 @@ sections:
           textAlign: left
     media:
       type: ImageBlock
-      url: /images/contact.jpg
+      url: /images/PETIRIS EYE PHOTO PET IRIS PHOTOGRAPHY.jpg
       altText: Contact form image
       caption: Caption of the image
       elementId: ''
