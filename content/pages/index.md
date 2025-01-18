@@ -10,7 +10,7 @@ backgroundImage:
   opacity: 100
 sections:
   - type: ContactSection
-    title: Contact Me
+    title: Coming soon...
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
