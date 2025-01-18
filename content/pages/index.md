@@ -15,12 +15,7 @@ sections:
     form:
       type: FormBlock
       title: Title of the form
-      fields:
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
-          isRequired: 'false'
+      fields: []
       submitLabel: Send Message
       elementId: contact-form
       styles:
