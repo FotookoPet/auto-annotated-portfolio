@@ -47,7 +47,7 @@ sections:
       text:
         textAlign: left
   - type: ContactSection
-    title: Contact Me
+    title: Contact Us
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
