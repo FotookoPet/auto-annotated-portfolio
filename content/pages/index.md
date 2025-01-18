@@ -16,13 +16,6 @@ sections:
       type: FormBlock
       title: Title of the form
       fields:
-        - type: EmailFormControl
-          name: email
-          label: Name
-          hideLabel: false
-          placeholder: Your email
-          width: 1/2
-          isRequired: 'true'
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
