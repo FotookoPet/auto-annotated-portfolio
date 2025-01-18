@@ -9,33 +9,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
-  - type: HeroSection
-    title: ''
-    subtitle: ''
-    actions: []
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: ContactSection
     title: Contact Me
     text: I'm look forward to hearing from you.
