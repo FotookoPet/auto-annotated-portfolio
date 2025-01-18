@@ -11,7 +11,8 @@ backgroundImage:
 sections:
   - type: ContactSection
     title: Coming soon...
-    text: I'm look forward to hearing from you.
+    text: |
+      Sign up to be notified
     form:
       type: FormBlock
       title: Title of the form
