@@ -23,7 +23,7 @@ sections:
           textAlign: left
     media:
       type: ImageBlock
-      url: /images/square PETIRIS EYE PHOTO PET IRIS PHOTOGRAPHY.jpg
+      url: /images/big square petiris animal eye photography photo.jpg
       altText: Contact form image
       caption: Caption of the image
       elementId: ''
