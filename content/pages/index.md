@@ -11,7 +11,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: ''
-    subtitle: ´
+    subtitle: ''
     actions:
       - type: Button
         label: Hire me
