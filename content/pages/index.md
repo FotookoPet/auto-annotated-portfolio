@@ -10,7 +10,7 @@ backgroundImage:
   opacity: 100
 sections:
   - type: ContactSection
-    title: Coming soon...
+    title: Coming very soon...
     text: ''
     form:
       type: FormBlock
